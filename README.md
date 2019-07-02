@@ -10,8 +10,8 @@ A simple machine learning quick-start with Python3 for inspiration
     > Downloaded UCI Iris data
 
 ## References
-[Jason Brownlee's tutorial](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
-[UCI Iris Dataset](https://archive.ics.uci.edu/ml/datasets/Iris)
+- [Jason Brownlee's tutorial](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
+- [UCI Iris Dataset](https://archive.ics.uci.edu/ml/datasets/Iris)
 
 
 
