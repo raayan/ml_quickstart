@@ -9,6 +9,9 @@ A simple machine learning quick-start with Python3 for inspiration
 - __data-iris__
     > Downloaded UCI Iris data
 
+## Todo
+- Use my hours dataset
+
 ## References
 - [Jason Brownlee's tutorial](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
 - [UCI Iris Dataset](https://archive.ics.uci.edu/ml/datasets/Iris)
