@@ -15,7 +15,7 @@ from sklearn.naive_bayes import GaussianNB
 from sklearn.svm import SVC
 
 # Load dataset
-url = "https://raw.githubusercontent.com/jbrownlee/Datasets/master/iris.csv"
+url = "iris.data"
 names = ['sepal-length', 'sepal-width', 'petal-length', 'petal-width', 'class']
 dataset = pandas.read_csv(url, names=names)
 
@@ -131,3 +131,4 @@ print("Actual class:\t\t%s" % actual)
 # Predict based on inputs
 prediction = knn.predict([test])[0]
 print("Predicted class:\t%s" % prediction)
+print("Prediction correct:\t%s" % (prediction == actual))
